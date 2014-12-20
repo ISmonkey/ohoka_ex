@@ -3,7 +3,8 @@
 
 if __name__ == "__main__":
 
-    flg = False
+    flg = True
 
     if flg:
         print("Hello, Github!")
+
